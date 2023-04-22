@@ -34,3 +34,6 @@ jspm_packages
 
 # Ignore ESLint files
 .eslintcache
+
+# My own API key
+/src/components/apiKey.js
